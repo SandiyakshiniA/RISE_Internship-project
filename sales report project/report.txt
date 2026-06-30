@@ -1,0 +1,5 @@
+SALES REPORT
+-----------------
+Total Sales: 150000
+Average Sales: 30000.0
+Highest Sale: 50000
