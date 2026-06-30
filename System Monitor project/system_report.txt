@@ -1,0 +1,5 @@
+SYSTEM MONITORING REPORT
+========================
+CPU Usage: 36.8%
+Memory Usage: 70.8%
+Disk Usage: 31.3%
